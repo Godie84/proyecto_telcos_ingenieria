@@ -2,6 +2,12 @@
 
 Este repositorio es el demo de la aplicación web empresarial que ofrece diversas soluciones para la gestión de procesos internos de la empresa Telcos Ingeniería S.A. La aplicación está diseñada para mejorar la eficiencia y facilitar la administración de diferentes áreas de la empresa.
 
+Este demo es solamente una descripcion del proyecto que se realizó para la empresa, no se encontraran funcionalidades back-end por solicitud de la empresa.
+
+El dearrollo sirve como solución a diferentes procesos de la compañia en donde se logra optimizar en gran impacto el consumo de papel, transformando procesos manuales a digitales, a continuacion se describen algunos de los procesos que se lograron digitalizar.
+
+De igual forma, esta aplicación web tiene la fincionalidad de un Web Services, el cual gestiona la información que recibe de una aplicación móvil desarrollada en Android, para el registro de asistencia de los empleados de la compañia.
+
 ## Aplicaciones Incluidas
 
 ### 1. Módulo de administración de usuarios y asignación de roles.
