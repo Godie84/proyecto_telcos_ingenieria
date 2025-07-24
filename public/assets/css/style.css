@@ -1,0 +1,38 @@
+body{
+    font-family: arial, helvetica;
+    font-size: 14px;
+    background: #F7F7F9;
+    
+}
+
+.menu{
+    list-style: none;
+    padding: 10;
+    background: #201F49;
+    width: auto;
+    
+    max-width: 100%;
+    margin: auto;
+}
+
+.menu li a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    display: block;
+}
+
+.menu li{
+    display: inline-block;
+    text-align: center;
+}
+
+.menu li a:hover{
+    background: #E78415;
+}
+
+
+
+
+
+
